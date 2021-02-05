@@ -1,0 +1,29 @@
+.itemTache {
+    padding: 8px 5px;
+    margin: 3px;
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+}
+.itemTache button {
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+.itemTache button:hover {
+    text-decoration: none;
+}
+button.btn {
+    margin: 0 5px;
+}
+span.red-class {
+    float: right;
+    background: #c60000;
+    padding: 2px 5px;
+    color: #fff;
+}
+span.green-class {
+    float: right;
+    background: #00c621;
+    padding: 2px 5px;
+    color: #fff;
+}
